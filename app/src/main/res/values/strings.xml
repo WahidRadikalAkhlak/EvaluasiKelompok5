@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">EvaluasiKelompok5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_band">Band</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_band">
+        <item>Sheila On7</item>
+        <item>HIVI!</item>
+        <item>Vierratale</item>
+        <item>DMasiv</item>
+        <item>Dewa19</item>
+    </string-array>
+
+    <string-array name="data_tgl">
+        <item>27 November 2022</item>
+        <item>11 November 2022</item>
+        <item>18 April 2022</item>
+        <item>5 Mei 2022</item>
+        <item>1 Januari 2023</item>
+    </string-array>
+
+    <string-array name="data_trsdia">
+        <item>Tiket Tersedia Sekarang</item>
+        <item>Tiket Tersedia Sekarang</item>
+        <item>Tiket Tersedia Sekarang</item>
+        <item>Tiket Tersedia Sekarang</item>
+        <item>Tiket Tersedia Sekarang</item>
+    </string-array>
+
+    <string-array name="data_harga">
+        <item>IDR 100.000</item>
+        <item>IDR 100.000</item>
+        <item>IDR 100.000</item>
+        <item>IDR 100.000</item>
+        <item>IDR 100.000</item>
+    </string-array>
+
+    <string-array name="img_photo">
+        <item>@drawable/so7</item>
+        <item>@drawable/hivi</item>
+        <item>@drawable/vierra</item>
+        <item>@drawable/dmasiv</item>
+        <item>@drawable/dewa19</item>
+    </string-array>
+</resources>
